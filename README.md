@@ -8,6 +8,6 @@ There are some random multipliers that makes each particle in the scene behaving
 
 Also it will the unique in each and every generation. Hope someone will have fun with it just like I do!
 
-![alt text](https://github.com/sertannavdann/Lua_tweenArtwork/blob/tweenArtwork/init.jpg)
+![alt text](https://github.com/sertannavdann/Lua_tweenArtwork/blob/tweenArtwork/love_EsyfWSxkPs.jpg)
 
 You can download and configure the code on your own will. No copyright initialized.
